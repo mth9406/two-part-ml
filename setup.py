@@ -8,5 +8,6 @@ setup(
     author_email= 'hursungwoo@postech.ac.kr',
     url= 'https://github.com/mth9406/two-part-ml.git',
     install_requires= ['catboost>=1.0.3', 'numpy>=1.16.0', 'sklearn>=1.0.1' ],
+    packages = ['two_part_ml']
     zip_safe = False
 )
