@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name= 'two_part_ml'
+    name= 'two_part_ml',
     version= '0.0.1',
     description= 'Implemenation of two-part-ml',
     author= 'SUNGWOO HUR',
